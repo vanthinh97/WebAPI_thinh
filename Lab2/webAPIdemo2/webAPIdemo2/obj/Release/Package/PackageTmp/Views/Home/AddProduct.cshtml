@@ -1,0 +1,97 @@
+﻿
+@{
+    ViewBag.Title = "AddProduct";
+}
+
+<h2>AddProduct</h2>
+
+<table>
+    <tr>
+        <td>Name</td>
+        <td>
+            <input type="text" id="Name" />
+        </td>
+    </tr>
+    <tr>
+        <td>Type</td>
+        <td>
+            <input type="text" id="Type" />
+        </td>
+    </tr>
+    <tr>
+        <td>Description</td>
+        <td>
+            <input type="text" id="Description" />
+        </td>
+    </tr>
+    <tr>
+        <td>Price</td>
+        <td>
+            <input type="text" id="Price" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center">
+            <input type="button" value="Add" onclick="AddProduct();" />
+        </td>
+    </tr>
+</table>
+@section Scripts
+{
+    <script type="text/javascript">
+    var hostUrl = "https://" + document.location.hostname + ":" + window.location.port;
+    var apiUrl = '/api/Products';
+    $(document).ready(function () { });
+
+    function GetAllProducts() {
+        $.ajax(
+        {
+            url: hostUrl + apiUrl,
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                DisplayProductList(data);
+            },
+            error: function () {
+                alert('Some error occured');
+            }
+        });
+    }
+
+
+    function AddProduct() {
+        var product = {
+            Name: $('#Name').val(),
+            Type: $('#Type').val(),
+            Description: $('#Description').val(),
+            Price: $('#Price').val()
+        };
+        $.ajax(
+        {
+            url: hostUrl + apiUrl,
+            type: 'POST',
+            data: JSON.stringify(product),
+            contentType: "application/json;charset=utf-8",
+            success: function (data) {
+                alert('Product added');
+                //GetAllProducts();
+            },
+            error: function () {
+                alert('Some error occured');
+            }
+        });
+    }
+
+    function DisplayProductList(products) {
+        $("#ProductList").empty();
+        var result = "<table><th>ID</th><th>Name</th><th>Type</th><th>Description</th><th>Price</th>";
+        $.each(products, function (index, product) {
+            result += "<tr><td>" + product.Id + "</td><td> " + product.Name + "</td><td>" + product.Type + "</td><td>" + product.Description + "</td><td>" + '₹ ' + product.Price + "</td></tr>";
+        });
+        result += "</table>";
+        $("#ProductList").html(result);
+    }
+
+
+    </script>
+}

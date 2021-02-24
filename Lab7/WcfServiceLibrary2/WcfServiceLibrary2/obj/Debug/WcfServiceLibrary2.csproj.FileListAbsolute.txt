@@ -1,0 +1,14 @@
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.dll.config
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.dll
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\EntityFramework.dll
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\EntityFramework.SqlServer.dll
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\EntityFramework.xml
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\EntityFramework.SqlServer.xml
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.csproj.CopyComplete
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.dll
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.Migrations.a.resources
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.csproj.GenerateResource.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfServer\bin\Debug\SimpleMsmqWcfServer.exe.config
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfServer\bin\Debug\SimpleMsmqWcfServer.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfServer\bin\Debug\SimpleMsmqWcfServer.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfServer\bin\Debug\SimpleMsmqWcf.dll
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfServer\bin\Debug\SimpleMsmqWcf.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfServer\bin\Debug\SimpleMsmqWcf.dll.config
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfServer\obj\Debug\SimpleMsmqWcfServer.csprojAssemblyReference.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfServer\obj\Debug\SimpleMsmqWcfServer.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfServer\obj\Debug\SimpleMsmqWcfServer.csproj.CopyComplete
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfServer\obj\Debug\SimpleMsmqWcfServer.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfServer\obj\Debug\SimpleMsmqWcfServer.pdb

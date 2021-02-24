@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewBag.Title = "EditProduct";
+}
+
+<h2>EditProduct</h2>
+
+<div>
+    <h4>Search by ID</h4>
+    <input type="text" id="searchProductID" size="5" />
+    <input type="button" value="Search" onclick="FindProduct();" />
+    <p id="prod" />
+</div>
+
+@section Scripts
+{
+    <script type="text/javascript">
+    var hostUrl = "https://" + document.location.hostname + ":" + "44394";
+    var apiUrl = '/api/Products';
+    $(document).ready(function () { });
+
+    function FindProduct() {
+        var id = $('#searchProductID').val();
+        $.getJSON(hostUrl + apiUrl + '/' + id).done(function (data) {
+            DisplayProductForEdit(data);
+        }).fail(function (jqXHR, textStatus, err) {
+            $('#prod').text('Error: ' + err);
+        });
+    }
+
+    function UpdateProduct() {
+        var id = $('#searchProductID').val();
+        var product = {
+            Id: $('#searchProductID').val(),
+            Name: $('#EditName').val(),
+            Type: $('#EditType').val(),
+            Description: $('#EditDescription').val(),
+            Price: $('#EditPrice').val()
+        };
+        $.ajax(
+        {
+            url: hostUrl + apiUrl + "/" +id,
+            type: 'PUT',
+            data: JSON.stringify(product),
+            contentType: "application/json;charset=utf-8",
+            success: function (data) {
+                alert('Product updated');
+            },
+            error: function (request, status, error) {
+                alert(request.responseText);
+            }
+        });
+    }
+
+
+    function DisplayProductForEdit(product) {
+        $("#prod").empty();
+        if (product == null) {
+            alert('Product Not Found')
+            return;
+        }
+        $("#prod").empty();
+        var result = "<table>" + "<tr><td>Name</td><td><input type='text' id='EditName' value='" + product.Name + "'</td></tr>" + "<tr><td>Type</td><td><input type='text' id='EditType' value='" + product.Type + "'</td></tr>" + "<tr><td>Description</td><td><input type='text' id='EditDescription' value='" + product.Description + "'</td></tr>" + "<tr><td>Price</td><td><input type='text' id='EditPrice' value='" + product.Price + "'</td></tr>" + "<tr><td colspan='3'align='center'><input type='button' value='Update' onclick='UpdateProduct();' </td></tr>" + "</table>";
+        $("#prod").html(result);
+    }
+    </script>
+}

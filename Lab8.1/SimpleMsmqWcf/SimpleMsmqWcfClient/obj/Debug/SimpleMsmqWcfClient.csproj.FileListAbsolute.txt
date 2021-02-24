@@ -1,0 +1,7 @@
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfClient\bin\Debug\SimpleMsmqWcfClient.exe.config
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfClient\bin\Debug\SimpleMsmqWcfClient.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfClient\bin\Debug\SimpleMsmqWcfClient.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfClient\obj\Debug\SimpleMsmqWcfClient.csprojAssemblyReference.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfClient\obj\Debug\SimpleMsmqWcfClient.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfClient\obj\Debug\SimpleMsmqWcfClient.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8.1\SimpleMsmqWcf\SimpleMsmqWcfClient\obj\Debug\SimpleMsmqWcfClient.pdb

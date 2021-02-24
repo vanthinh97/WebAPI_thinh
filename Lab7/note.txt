@@ -1,0 +1,1 @@
+mở trong WCF cho chạy debug lên, mở file config ra rồi copy vào chỗ nào đó, chắc là config ở trang client

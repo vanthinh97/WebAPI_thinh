@@ -1,0 +1,11 @@
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\ConsoleHost\bin\Debug\ConsoleHost.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\ConsoleHost\bin\Debug\ConsoleHost.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\ConsoleHost\bin\Debug\WcfMSMQ.dll
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\ConsoleHost\bin\Debug\WcfMSMQ.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\ConsoleHost\bin\Debug\WcfMSMQ.dll.config
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\ConsoleHost\obj\Debug\ConsoleHost.csprojAssemblyReference.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\ConsoleHost\obj\Debug\ConsoleHost.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\ConsoleHost\obj\Debug\ConsoleHost.csproj.CopyComplete
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\ConsoleHost\obj\Debug\ConsoleHost.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\ConsoleHost\obj\Debug\ConsoleHost.pdb

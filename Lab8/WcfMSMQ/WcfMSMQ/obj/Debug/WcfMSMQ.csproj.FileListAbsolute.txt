@@ -1,0 +1,6 @@
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\WcfMSMQ\bin\Debug\WcfMSMQ.dll.config
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\WcfMSMQ\bin\Debug\WcfMSMQ.dll
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\WcfMSMQ\bin\Debug\WcfMSMQ.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\WcfMSMQ\obj\Debug\WcfMSMQ.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\WcfMSMQ\obj\Debug\WcfMSMQ.dll
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab8\WcfMSMQ\WcfMSMQ\obj\Debug\WcfMSMQ.pdb

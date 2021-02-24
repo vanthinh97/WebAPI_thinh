@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "ListProduct";
+}
+
+<h2>ListProduct</h2>
+
+<div>
+    <h4>Product List</h4>
+    <input type="button" value="View All Products" onclick="GetAllProducts();" />
+    <ul id="ProductList" />
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+
+    var hostUrl = "https://" + document.location.hostname + ":" + "44394";
+    var apiUrl = '/api/Products';
+    $(document).ready(function() {});
+
+    function GetAllProducts()
+    {
+        $.ajax(
+        {
+            url: hostUrl + apiUrl,
+            type: 'GET',
+            dataType: 'json',
+            success: function(data)
+            {
+                DisplayProductList(data);
+            },
+            error: function()
+            {
+                alert('Some error occured');
+            }
+        });
+    }
+
+    function DisplayProductList(products) {
+        $("#ProductList").empty();
+        var result = "<table><th>ID</th><th>Name</th><th>Type</th><th>Description</th><th>Price</th>";
+        $.each(products, function (index, product) {
+            result += "<tr><td>" + product.Id + "</td><td> " + product.Name + "</td><td>" + product.Type + "</td><td>" + product.Description + "</td><td>" + '₹ ' + product.Price + "</td></tr>";
+        });
+        result += "</table>";
+        $("#ProductList").html(result);
+    }
+    </script>
+}

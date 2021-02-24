@@ -1,0 +1,13 @@
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\bin\Debug\bankHost.exe.config
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\bin\Debug\bankHost.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\bin\Debug\bankHost.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\bin\Debug\WcfServiceLibrary2.dll
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\bin\Debug\EntityFramework.dll
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\bin\Debug\WcfServiceLibrary2.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\bin\Debug\WcfServiceLibrary2.dll.config
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\bin\Debug\EntityFramework.xml
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\obj\Debug\bankHost.csprojAssemblyReference.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\obj\Debug\bankHost.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\obj\Debug\bankHost.csproj.CopyComplete
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\obj\Debug\bankHost.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\bankHost\obj\Debug\bankHost.pdb

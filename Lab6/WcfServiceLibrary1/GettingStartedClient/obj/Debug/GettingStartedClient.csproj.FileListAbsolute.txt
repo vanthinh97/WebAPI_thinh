@@ -1,0 +1,7 @@
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab6\WcfServiceLibrary1\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab6\WcfServiceLibrary1\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab6\WcfServiceLibrary1\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab6\WcfServiceLibrary1\GettingStartedClient\obj\Debug\GettingStartedClient.csprojAssemblyReference.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab6\WcfServiceLibrary1\GettingStartedClient\obj\Debug\GettingStartedClient.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab6\WcfServiceLibrary1\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab6\WcfServiceLibrary1\GettingStartedClient\obj\Debug\GettingStartedClient.pdb

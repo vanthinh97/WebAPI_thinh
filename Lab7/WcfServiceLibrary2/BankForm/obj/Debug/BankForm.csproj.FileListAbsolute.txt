@@ -1,0 +1,11 @@
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\BankForm\bin\Debug\BankForm.exe.config
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\BankForm\bin\Debug\BankForm.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\BankForm\bin\Debug\BankForm.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\BankForm\obj\Debug\BankForm.csprojAssemblyReference.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\BankForm\obj\Debug\BankForm.Form1.resources
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\BankForm\obj\Debug\BankForm.Properties.Resources.resources
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\BankForm\obj\Debug\BankForm.csproj.GenerateResource.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\BankForm\obj\Debug\BankForm.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\BankForm\obj\Debug\BankForm.exe
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\BankForm\obj\Debug\BankForm.pdb
+D:\LAPTRINH\BACK_END\ASP.net\Web API\at_class\Lab7\WcfServiceLibrary2\BankForm\obj\Debug\BankForm.Form2.resources
